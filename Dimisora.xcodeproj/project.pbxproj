@@ -86,11 +86,12 @@
 				};
 			};
 			buildConfigurationList = EB0498892DE5C44B007C6B59 /* Build configuration list for PBXProject "Dimisora" */;
-			developmentRegion = en;
+			developmentRegion = es;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
+				es,
 			);
 			mainGroup = EB0498852DE5C44B007C6B59;
 			minimizedProjectReferenceProxies = 1;
